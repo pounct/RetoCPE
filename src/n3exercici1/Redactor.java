@@ -30,10 +30,6 @@ public class Redactor {
 		return sou;
 	}
 
-	public void setSou(int sou) {
-		this.sou = sou;
-	}
-
 	public ArrayList<Noticia> getNoticias() {
 		return noticias;
 	}
